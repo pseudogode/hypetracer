@@ -1,0 +1,22 @@
+{
+  "name": "hypetracer-server",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "convict": "^6.2.4",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "objection": "^3.1.5",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@types/convict": "^6.1.6",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.3.1",
+    "@types/pg": "^8.15.5",
+    "ts-node": "^10.9.2"
+  }
+}

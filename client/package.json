@@ -1,5 +1,5 @@
 {
-  "name": "hypetracer",
+  "name": "hypetracer-client",
   "private": true,
   "version": "0.0.0",
   "type": "module",
